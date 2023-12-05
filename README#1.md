@@ -40,11 +40,11 @@ npm -v
 -->  라이브러리를 개별적으로 실행하고자 할때 사용하는것
 
 
-### 1.폴더생성
+## 1. 폴더생성
 
 - 프로젝트를 만들 폴더를 만든다 ex) reha_react
 
-### 2.리액트에서 필요한 패키지를 자동으로 설치해주는 명령어를 입력한다.
+## 2. 리액트에서 필요한 패키지를 자동으로 설치해주는 명령어를 입력한다.
 
 - D드라이브안으로 이동 D:
 
@@ -59,15 +59,29 @@ npx create-react-app my-app
 차례대로 입력
 
 
-## SPA: single Page Application
+### SPA: single Page Application
 
 - 페이지는 하나인데 여러개인것처럼 눈속임을 함. (여러개인것처럼 보이지만 사실은 하나!)
 
 - 페이지를 매번 새로 가져올 필요가 없음, 웹사이트를 모바일처럼 사용할수 있음.
 
-### react 확장프로그램 설치
+## 3. react 확장프로그램 설치
+
+- react 프로그램
 
 ![image](https://github.com/OnlyREHA/React/assets/145514740/d4e4fd83-0420-4a5d-85c8-0f0de704d9e0)
+
+- react 코드 정렬
+  
+![image](https://github.com/OnlyREHA/React/assets/145514740/b45454cb-14bb-46b2-98d3-774a33b7eb13)
+
+## 4. save 설정하기
+
+- vs code에 설정에서 체크하기
+
+![image](https://github.com/OnlyREHA/React/assets/145514740/8d8f5dd7-59f9-4b5f-8d48-a9e7f6907ac9)
+
+
 
 
 
