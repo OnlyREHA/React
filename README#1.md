@@ -78,8 +78,10 @@ npx create-react-app my-app
 ## 4. save 설정하기
 
 - vs code에 설정에서 체크하기
+- Default format - prettier로 설정하기 
 
-![image](https://github.com/OnlyREHA/React/assets/145514740/8d8f5dd7-59f9-4b5f-8d48-a9e7f6907ac9)
+![image](https://github.com/OnlyREHA/React/assets/145514740/c0831854-ee21-4623-bbc7-c09e8e698738)
+
 
 
 
