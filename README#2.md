@@ -34,6 +34,36 @@ function App() {
 export default App;
 ```
 
+```
+import './App.css';
+
+// jsx문법
+function App() {
+  const name = "강아지";
+  const list = ['감기','기침','약']
+  return (
+    <>
+    <h1 className = "dog">{name} 안녕!</h1>
+    <h1 className = "dog">{`${name} 안녕!!`}</h1>
+    <ul>
+      <li>감기</li>
+      <li>기침</li>
+      <li>약</li>
+    </ul>
+    <ul>
+      {/* {list.map((item) => {
+      return <li>{item}</li>;
+      })} */}
+      {list.map((item) => (<li>{item}</li>))}
+    </ul>
+    <img style={{width:"300px", height:"500px"}} src="https://i.namu.wiki/i/2CxTTURJ74h0iwxTeFMqRegi_ANKsyPFr5sfxq28gKC3ufjsrDpg-OYX-mw3X2jrwYGXAvSC18TW8RpiN9Mc2g.webp" alt="img"></img>
+    </>
+  );
+}
+
+export default App;
+```
+
 
 
 
