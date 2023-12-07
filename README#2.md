@@ -1,8 +1,8 @@
 
 ###JSX문법
-
+```
 [https](https://react.dev/learn#writing-markup-with-jsx)
-
+```
 
 - 컴퍼넌트의 retrun()에서는 반드시 하나의 태그로 싸여있어야한다.
 - 태그대신 <> </>  --> Fragment를 사용할수 있다.
@@ -12,8 +12,9 @@
 
 - inline스타일로 css를 작성할때
 -->  밖의 {}는 자바스크립트를 사용한다는 의미, 안의 {}는 객체를 사용한다는 의미로 해석
-  
+```
 <div style={{width:"300px" , height:"200px"}}>추가하기</div>
+```
 
 ```
 import './App.css';
@@ -33,3 +34,13 @@ function App() {
 
 export default App;
 ```
+
+
+
+
+
+
+
+
+
+
