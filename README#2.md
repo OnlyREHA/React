@@ -1,8 +1,7 @@
 
 ###JSX문법
-```
-[https](https://react.dev/learn#writing-markup-with-jsx)
-```
+
+https://react.dev/learn#writing-markup-with-jsx
 
 - 컴퍼넌트의 retrun()에서는 반드시 하나의 태그로 싸여있어야한다.
 - 태그대신 <> </>  --> Fragment를 사용할수 있다.
