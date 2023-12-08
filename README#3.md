@@ -8,7 +8,8 @@
 
 ## react에서 emmit 적용하기 -> 태그자동완성
 
-![image](https://github.com/OnlyREHA/React/assets/145514740/7ac46f6f-60af-4612-81dc-a469f7df58ab)
+![image](https://github.com/OnlyREHA/React/assets/145514740/d2b5dca2-ea46-4113-b6d8-646c1136e56f)
+
 
 ```
 "emmet.includeLanguages": {"javascript":"javascriptreact"}
