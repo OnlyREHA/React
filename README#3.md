@@ -10,5 +10,11 @@
 
 ![image](https://github.com/OnlyREHA/React/assets/145514740/7ac46f6f-60af-4612-81dc-a469f7df58ab)
 
+```
+"emmet.includeLanguages": {"javascript":"javascriptreact"}
+```
+
+![image](https://github.com/OnlyREHA/React/assets/145514740/2bdd4b5d-eca9-4e87-8c10-7fc13f6c97d0)
+
 
 
