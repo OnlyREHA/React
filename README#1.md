@@ -82,6 +82,12 @@ npx create-react-app my-app
 
 ![image](https://github.com/OnlyREHA/React/assets/145514740/c0831854-ee21-4623-bbc7-c09e8e698738)
 
+## 5. react 실행
+
+vscode 터미널 실행
+
+npm start
+
 
 
 
