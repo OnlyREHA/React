@@ -10,7 +10,7 @@ npm create-react-app 폴더명
 ![image](https://github.com/OnlyREHA/React/assets/145514740/d4c91fbf-4a3d-47b5-8233-4546576b3ff2)
 
 - react에서는 데이터를 변할수 있는 값이고, 값이 변할때마다 UI를 변경해 달라고(화면을 다시 그려달라) 알려야 한다.
-- 그럴때 사용하는것이 useState() 이다.
+- 그럴 때 사용하는것이 useState() 이다.
 
   const [num, setNum] = useState(0)
 
