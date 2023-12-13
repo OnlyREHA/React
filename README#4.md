@@ -18,6 +18,11 @@ npm create-react-app 폴더명
 - num을 변하게 하는 함수 => setNum (함수를 이용하여 num을 변경한다)
 - useState(0)의 0은 num의 초기값
 
+  ## 부분적으로 값 받기
+
+  ![image](https://github.com/OnlyREHA/React/assets/145514740/88f71892-47fa-45e7-99e2-90c7c2bb512c)
+
+
 
 
 
