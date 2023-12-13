@@ -25,6 +25,35 @@ npm create-react-app 폴더명
   ![image](https://github.com/OnlyREHA/React/assets/145514740/6c51f1f8-c69c-4583-985c-ea2ccd5ed9cc)
 
 
+  ## 구조분해
+
+```
+  import React from 'react'
+
+  const Profile = ({img,name,title,isNew}) => {
+  // const img = props.img;
+  // const name = props.name;
+  // const title = props.title;
+
+  //구조분해 
+  //const {img,name,title,isNew} = props;
+  return (
+    <>
+      <div className='profile'>
+        <img src={img} alt="Doraemon" />
+        {/* {props.isNew?<span className='new'>신입</span>:""} */}
+        {isNew && <span className='new'>신입</span>}
+        <h2>{name}</h2>
+        <p>{title}</p>
+      </div>
+    </>
+  )
+}
+
+export default Profile
+```
+
+
 
 
 
