@@ -22,6 +22,9 @@ npm create-react-app 폴더명
 
   ![image](https://github.com/OnlyREHA/React/assets/145514740/88f71892-47fa-45e7-99e2-90c7c2bb512c)
 
+  ![image](https://github.com/OnlyREHA/React/assets/145514740/6c51f1f8-c69c-4583-985c-ea2ccd5ed9cc)
+
+
 
 
 
