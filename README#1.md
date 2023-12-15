@@ -84,10 +84,18 @@ npx create-react-app my-app
 
 ## 5. react 실행
 
+- 부모폴더를 끌고왔을때 실행폴더로 시작하기
+- vscode 터미널에 입력
+- 
+```
+cd 실행폴더명
+``` 
+
 vscode 터미널 실행
 
+```
 npm start
-
+```
 
 
 
