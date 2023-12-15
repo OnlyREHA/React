@@ -1,4 +1,4 @@
-## 1. Node.js 설치
+## Node.js 설치
 
 -자바스크립트를 브라우저 밖에서 동작할수 있도록 하는 런타임환경
 
@@ -40,11 +40,11 @@ npm -v
 -->  라이브러리를 개별적으로 실행하고자 할때 사용하는것
 
 
-## 1. 폴더생성
+### 1. 폴더생성
 
 - 프로젝트를 만들 폴더를 만든다 ex) reha_react
 
-## 2. 리액트에서 필요한 패키지를 자동으로 설치해주는 명령어를 입력한다.
+### 2. 리액트에서 필요한 패키지를 자동으로 설치해주는 명령어를 입력한다.
 
 - D드라이브안으로 이동 D:
 
@@ -65,7 +65,7 @@ npx create-react-app my-app
 
 - 페이지를 매번 새로 가져올 필요가 없음, 웹사이트를 모바일처럼 사용할수 있음.
 
-## 3. react 확장프로그램 설치
+### 3. react 확장프로그램 설치
 
 - react 프로그램
 
@@ -75,14 +75,14 @@ npx create-react-app my-app
   
 ![image](https://github.com/OnlyREHA/React/assets/145514740/b45454cb-14bb-46b2-98d3-774a33b7eb13)
 
-## 4. save 설정하기
+### 4. save 설정하기
 
 - vs code에 설정에서 체크하기
 - Default format - prettier로 설정하기 
 
 ![image](https://github.com/OnlyREHA/React/assets/145514740/c0831854-ee21-4623-bbc7-c09e8e698738)
 
-## 5. react 실행
+### 5. react 실행
 
 - 부모폴더를 끌고왔을때 실행폴더로 시작하기
 - vscode 터미널에 입력
