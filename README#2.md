@@ -1,5 +1,5 @@
 
-###JSX문법
+### JSX문법
 
 https://react.dev/learn#writing-markup-with-jsx
 
