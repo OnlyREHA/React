@@ -8,8 +8,16 @@
 
 ![image](https://github.com/OnlyREHA/React/assets/145514740/1dbbbaca-b551-4167-beae-af13507f787d)
 
-- input태그에서는 onchange= {(e) => {setName(e. target.value)}}
+- input태그에서는 onChange= {(e) => {setName(e. target.value)}}
 
   e = 이벤트를 받음
   
   상태값을 변경하기 위해 setName 함수를 사용하며 사용자가 입력한 값을 상태값으로 적용하기 위해 e.target.value를 사용한다.
+
+#### <form onSubmit={(e) => {e.preventDefault()}}></form>
+
+- form은 새로고침이 일어나는 속성을 가지고 있다.
+  
+  그래서 이를 막기 위해 e.preventDefault()를 사용한다.
+
+  
