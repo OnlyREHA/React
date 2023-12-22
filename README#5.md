@@ -23,7 +23,11 @@ npm install react-router-dom
 
 ![image](https://github.com/OnlyREHA/React/assets/145514740/40684f12-8bdb-4dc6-a6d4-fefb8e994d6b)          ![image](https://github.com/OnlyREHA/React/assets/145514740/998e58b1-98d3-4e6c-86e0-f417ae535064)
 
+### 3. page를 만들고 그페이지의 경로를 router에 등록  --> Routes, Route
 
+
+
+---
 ### 링크 연결해서 페이지 바로가기
 
 - Link는 a태그로 변환된다.  --> 라우터간에 이동할수 있게 도와주는 링크
