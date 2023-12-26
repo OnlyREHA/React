@@ -9,10 +9,14 @@
 ###  🌈react로 fontawesome 사용하기
 
 ```
+npm i --save @fortawesome/fontawesome-svg-core
+
 # Free icons styles
 npm i --save @fortawesome/free-solid-svg-icons
 npm i --save @fortawesome/free-regular-svg-icons
 npm i --save @fortawesome/free-brands-svg-icons
+
+npm i --save @fortawesome/react-fontawesome@latest
 ```
 
 
@@ -24,6 +28,8 @@ npm i --save @fortawesome/free-brands-svg-icons
 - 아이콘 속성에 맞는 npm 파일 필요 _ regular
 
 ![image](https://github.com/OnlyREHA/React/assets/145514740/431d411b-c6cb-4e21-b9de-0ea5a4169881)
+
+
 
 
 
