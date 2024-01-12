@@ -1,4 +1,5 @@
 
+
 ![image](https://github.com/OnlyREHA/React/assets/145514740/42dbd808-8157-407a-b6df-b1ed1986cf91)
 
 
@@ -9,3 +10,16 @@ react-router-dom 의 compoent
 
 ### useParams
 react-router-dom 의 hook
+
+```
+http://localhost:3000/product/0
+```
+
+0 =>
+
+- url 주소에서 파라미터는 제일 뒤에 있는 0이라는 숫자이다
+- id값이 들어와 있다
+- 파라미터값을 읽어와야할때
+
+- ![image](https://github.com/OnlyREHA/React/assets/145514740/f4134c8a-fd2f-4cb9-b595-ee38dc9f9b7d)
+
